@@ -4,7 +4,7 @@ Hello Bynry.. This is Suhas Wankhede MCA 2nd Year (DY Patil Institute of MCA Aku
 This is the task given by Bynry Inc....
 
 Stages I have completed:
-stage 1: I craeted a Model Package that has all required data of customer and Service Request
+stage 1: I craeted a Model Package that has all required data of customer and Service Request "\n""\n"
 stage 2: created the repository for customer and service request
 stage 3: created service package that provide implementation service to customer and service request
 stage 4: Finally, created the Controller (Most Important) here I created RestFul Api's for Customer and Service Request
