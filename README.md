@@ -1,25 +1,27 @@
 Hello Bynry.. This is Suhas Wankhede MCA 2nd Year (DY Patil Institute of MCA Akurdi Pune ) This side, I tried my level best to fullfil your requirements hope this is finds you according to your need.
 
-
+</br></br>
 This is the task given by Bynry Inc....
-
+</br></br>
 Stages I have completed:
 stage 1: I craeted a Model Package that has all required data of customer and Service Request </br></br>
-stage 2: created the repository for customer and service request
-stage 3: created service package that provide implementation service to customer and service request
+stage 2: created the repository for customer and service request </br></br>
+stage 3: created service package that provide implementation service to customer and service request </br></br>
 stage 4: Finally, created the Controller (Most Important) here I created RestFul Api's for Customer and Service Request
          @PostMapping -> creating the customer and make service for those user
          @PutMapping -> Once data send by the customer, varify those data and according to that update the status
          @GetMapping -> Now, need fetch the data it is fullfil the requirement or not
+         </br></br>
+         </br></br></br></br>
 
 
 /Tools Used : 1. Postmap -> To test the Rest Api's
               2. Eclipse -> Hence it is maven project 
               3. starter dependancies such as JPA, Connector J, Spring boot Web
-              
+              </br></br></br></br>
 
 
-// Below Snapshot Attached to know my Rest Api's Testing through PostMan and how Data Stored through PostMan
+// Below Snapshot Attached to know my Rest Api's Testing through PostMan and how Data Stored through PostMan </br></br></br></br>
 
 
 ![Screenshot (9)](https://github.com/suhaswankhede121/Bynri_Backend_Task_GasUtility/assets/132128817/e711bb32-3956-4406-8803-bb1d920bc7de)
