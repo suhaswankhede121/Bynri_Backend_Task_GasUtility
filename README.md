@@ -7,10 +7,10 @@ Stages I have completed:
 stage 1: I craeted a Model Package that has all required data of customer and Service Request </br></br>
 stage 2: created the repository for customer and service request </br></br>
 stage 3: created service package that provide implementation service to customer and service request </br></br>
-stage 4: Finally, created the Controller (Most Important) here I created RestFul Api's for Customer and Service Request
-         @PostMapping -> creating the customer and make service for those user
-         @PutMapping -> Once data send by the customer, varify those data and according to that update the status
-         @GetMapping -> Now, need fetch the data it is fullfil the requirement or not
+stage 4: Finally, created the Controller (Most Important) here I created RestFul Api's for Customer and Service Request</br>
+         @PostMapping -> creating the customer and make service for those user</br>
+         @PutMapping -> Once data send by the customer, varify those data and according to that update the status</br>
+         @GetMapping -> Now, need fetch the data it is fullfil the requirement or not</br>
          </br></br>
          </br></br></br></br>
 
